@@ -324,7 +324,7 @@ int closedevice(void)
 	fd = -1;
 	return SUCCESS_LOCAL;
 }
-
+//lubinsz added it -- 2015-05-21
 void greytoABGRY(unsigned char *src)
 {
     int width=0;
